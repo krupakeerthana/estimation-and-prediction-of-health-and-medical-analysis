@@ -25,9 +25,9 @@ healthai_app/
     ├── __init__.py
     └── settings.py
 
-    ✅ Technologies Used
-    | Component         | Technology         | Purpose                                  |
-| ----------------- | ------------------ | ---------------------------------------- |
+✅ Technologies Used
+| Component         | Technology         | Purpose                                  |
+
 | 💻 Frontend       | Streamlit          | UI for chatbot, analytics, and inputs    |
 | 🧠 Language Model | Hugging Face GPT-2 | Lightweight text-generation engine       |
 | 📊 Visualization  | Plotly             | Trend charts for heart rate, BP, glucose |
