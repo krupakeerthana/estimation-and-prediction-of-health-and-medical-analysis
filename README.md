@@ -1,6 +1,7 @@
 # estimation-and-prediction-of-health-and-medical-analysis
 
 Project Structure:
+
 healthai_app/
 ├── app.py
 ├── requirements.txt
