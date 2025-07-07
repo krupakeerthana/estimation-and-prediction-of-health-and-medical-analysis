@@ -80,5 +80,5 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND.
 #HealthAI_app zipfile 
 [HealthAI_GPT2_Project.zip](https://github.com/user-attachments/files/20981184/HealthAI_GPT2_Project.zip)
 #Demo vedio
-https://github.com/krupakeerthana/estimation-and-prediction-of-health-and-medical-analysis
+https://drive.google.com/file/d/1R8is7GnbNJQ4mnDBJuBob_O0Nl1b9U0r/view?usp=drivesdk
 
